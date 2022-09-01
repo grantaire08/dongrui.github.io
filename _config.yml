@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dongrui SHEN"
-  avatar           : "profile.png"
-  bio              : "I am currently a graduate with the MSc degree in computational applied mathematics from the University of Edinburgh, UK, seeking a PhD research position in computational statistics."
+  avatar           : "profile.jpg"
+  bio              : "I am currently a graduate with the MSc degree in computational applied mathematics, seeking a PhD research position in computational statistics."
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dongrui-shen/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

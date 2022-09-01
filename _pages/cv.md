@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S. in  Computational Applied Mathematics, University of Edinburgh, 2020-2021
-* B.S. in Mathematics and Applied Mathematics, Beihang University, GitHub University, 2016-2020
+* B.S. in Mathematics and Applied Mathematics, Beihang University, 2016-2020
 
 
 
