@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. Here you will find my papers and my CV. Feel free to <a href="mailto:{{ author.email }}">contact me<a> if you need any further information.
+Welcome to my personal website. Here you will find my papers and my CV. Feel free to <a href="mailto:d.shen-98@outlook.com">contact me<a> if you need any further information.
