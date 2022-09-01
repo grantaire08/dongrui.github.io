@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "Some fun links"
 excerpt: "Links"
 author_profile: true
