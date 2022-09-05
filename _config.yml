@@ -250,7 +250,7 @@ defaults:
   # _projs
   - scope:
       path: ""
-      type: projs
+      type: talk
     values:
       layout: talk
       author_profile: true
