@@ -23,8 +23,7 @@ Work experience
 * Spring 2021:  Python data science teaching assistant
   * NetEase Youdao, Hangzhou
   * Duties included: Assist in the development of lecture slides and computer lab materials.
-  * Supervisor: Geng Zhao
-
+  
   
 
 Skills
