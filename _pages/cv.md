@@ -41,7 +41,7 @@ Skills
   - Research training. Learn the basics of variational methods, including VB (MFVB and FFVB) and EP (parallel EP, AEP, SEP and α-EP) methods. Compare different variational methods in linear regression model. Explore the algorithm design with different problem-specific convariance constraints.
 - Modeling soccer scores by integrated nested Laplace approximation
   - *Feb 2021 - Aug 2021*
-  - Master’s dissertation. Explore the basic ideas of INLA, and implement several models of increasing complexity for predicting the outcomes of soccer matches.
+  - Master dissertation. Explore the basic ideas of INLA, and implement several models of increasing complexity for predicting the outcomes of soccer matches.
 - Regression models in JAGS
   - *Nov 2020 - Dec 2020*
   - Course project. Compare three Bayesian models by implementing the models in JAGS, having JAGS sample from the corresponding posterior densities, and then using the deviance information criterion, DIC, for model comparison.
@@ -64,5 +64,4 @@ Skills
   - Scholarship for Outstanding Performance for the 2017 - 2018 academic year, BUAA
 - *Oct 2018*
   - The Mertit Student of Beihang University for the 2017 - 2018 academic year, BUAA
-
 
