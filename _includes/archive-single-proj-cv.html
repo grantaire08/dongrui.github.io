@@ -33,8 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.time %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.time }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }}</p>{% endif %}
+    <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.time }} </p>
     </li>
   </article>
 </div>
