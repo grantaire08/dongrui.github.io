@@ -4,7 +4,7 @@ collection: projs
 type: "Course project"
 permalink: /projs/proj03
 venue: "University of Edinburgh, School of Mathematics"
-date: 2021-03
+time: 2021-03
 ---
 
 [More information here](http://grantaire08.github.io/files/rscam_review.pdf)

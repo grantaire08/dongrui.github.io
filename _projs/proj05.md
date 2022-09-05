@@ -4,7 +4,7 @@ collection: projs
 type: "Research training"
 permalink: /projs/proj05
 venue: "University of Edinburgh, School of Mathematics"
-date: 2020-11
+time: 2020-11
 ---
 
 [More information here](http://grantaire08.github.io/files/isr.pdf)
