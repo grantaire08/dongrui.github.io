@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dongrui SHEN"
   avatar           : "profile.jpg"
-  bio              : "I am a graduate with a master's degree in computational applied mathematics, seeking a PhD research position in computational statistics."
+  bio              : "MSc in Computational Applied Mathematics,2021\nBSc in Mathematics and Applied Mathematics,2020\n"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -255,6 +255,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      comment: true
 
 # Sass/SCSS
 sass:

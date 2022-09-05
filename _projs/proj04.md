@@ -4,7 +4,7 @@ collection: projs
 type: "Course project"
 permalink: /projs/proj04
 venue: "University of Edinburgh, School of Mathematics"
-date: Nov 2020-Dec 2020
+date: from 2020-11 to 2020-12
 ---
 
 [More information here](http://grantaire08.github.io/files/stasprog_proj2)

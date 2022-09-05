@@ -4,7 +4,7 @@ collection: projs
 type: "Master dissertation"
 permalink: /projs/proj02
 venue: "University of Edinburgh, School of Mathematics"
-date: Feb 2021-Aug 2021
+date: from 2021-02 to 2021-08
 ---
 
 [More information here](http://grantaire08.github.io/files/MSSbyINLA.pdf)

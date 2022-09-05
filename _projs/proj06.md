@@ -4,7 +4,7 @@ collection: projs
 type: "Undergraduate dissertation"
 permalink: /projs/proj06
 venue: "Beihang University, School of Mathematical Science"
-date: Feb 2020-May 2020
+date: from 2020-02 to 2020-05
 ---
 
 [More information here](http://grantaire08.github.io/files/BernsteinProblem.pdf)

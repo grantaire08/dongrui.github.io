@@ -4,7 +4,7 @@ collection: projs
 type: "Course project"
 permalink: /projs/proj08
 venue: "Beihang University, School of Mathematical Science"
-date: May 2019-Jun 2019
+date: from 2019-05 to 2019-06
 ---
 
 Analyze the high-speed rail network using PageRank algorithm and graph theory methods.
