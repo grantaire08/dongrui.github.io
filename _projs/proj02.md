@@ -1,12 +1,12 @@
 ---
-title: "Modeling soccer scores by integrated nested Laplace approximation"
+title: "Bernstein type problem for minimal hypersurfaces"
 collection: projs
-type: "Master dissertation"
+type: "Undergraduate dissertation"
 permalink: /projs/proj02
-venue: "University of Edinburgh, School of Mathematics"
-time: from 2021-02 to 2021-08
+venue: "Beihang University, School of Mathematical Science"
+time: from 2020-02 to 2020-05
 ---
 
-[More information here](http://grantaire08.github.io/files/MSSbyINLA.pdf)
+Introduce the value distribution problem of Gauss map of minimal surfaces in Euclidean space and present major contributions by Osserman,Xavier and Fujimoto.
 
-Explore the basic ideas of INLA, and implement several models of increasing complexity for predicting the outcomes of soccer matches.
+[More information here](http://grantaire08.github.io/files/BernsteinProblem.pdf)

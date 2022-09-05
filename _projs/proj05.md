@@ -1,12 +1,12 @@
 ---
-title: "Individual seminar report: Off-the-grid sparse regularization"
+title: "Review of “New error bounds for deep ReLU networks using sparse grids” "
 collection: projs
-type: "Research training"
+type: "Course project"
 permalink: /projs/proj05
 venue: "University of Edinburgh, School of Mathematics"
-time: 2020-11
+time: 2021-03
 ---
 
-[More information here](http://grantaire08.github.io/files/isr.pdf)
+This is a paper aims to address the problem, why and when deep networks can lessen or break the curse of dimensionality. Instead of focusing on a particular set of functions which have a very special structure, they consider functions in the Korobov spaces which is more general for high dimensional multivariate approximation.
 
-Get an overview on Clarice Poon’s seminar on Off-the-grid sparse estimation, which focuses on the theoretical analysis of the stability of the Beurling-Lasso method.
+[More information here](http://grantaire08.github.io/files/rscam_review.pdf)

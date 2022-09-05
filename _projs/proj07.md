@@ -1,12 +1,10 @@
 ---
-title: "Rational solutions to an extended KP-like equation with symbolic computation"
+title: "Expectation propagation in linear regression models"
 collection: projs
-type: "Course project"
+type: "Research training"
 permalink: /projs/proj07
-venue: "Beihang University, School of Mathematical Science"
-time: from 2019-10 to 2019-12
+venue: "Heriot-Watt University, School of Engineering and Physical Sciences"
+time: 2021-09
 ---
 
-[More information here](http://grantaire08.github.io/files/rational_solu_pre.pdf)
-
-An introduction to the Hirota bilinear method. Propose an extended KP-like equation with the generalized bilinear operators and discuss rational solutions based on polynomial solutions to the generalized bilinear equation.
+Learn the basics of variational methods, including VB (MFVB and FFVB) and EP (parallel EP, AEP, SEP and α-EP) methods. Compare different variational methods in linear regression model. Explore the algorithm design with different problem-specific convariance constraints.

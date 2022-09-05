@@ -1,10 +1,10 @@
 ---
-title: "Pagerank on the high-speed rail network in China"
+title: "Expectation propagation in linear regression models"
 collection: projs
-type: "Course project"
+type: "Research training"
 permalink: /projs/proj08
-venue: "Beihang University, School of Mathematical Science"
-time: from 2019-05 to 2019-06
+venue: "Heriot-Watt University, School of Engineering and Physical Sciences"
+time: 2021-09
 ---
 
-Analyze the high-speed rail network using PageRank algorithm and graph theory methods.
+Learn the basics of variational methods, including VB (MFVB and FFVB) and EP (parallel EP, AEP, SEP and α-EP) methods. Compare different variational methods in linear regression model. Explore the algorithm design with different problem-specific convariance constraints.
