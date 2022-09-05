@@ -250,9 +250,9 @@ defaults:
   # _projs
   - scope:
       path: ""
-      type: talk
+      type: projs
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: false
 
