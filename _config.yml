@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dongrui SHEN"
   avatar           : "profile.jpg"
-  bio              : "MSc graduate with a strong background in mathematics"
-  location         : "China"
+  bio              : "PhD student at CityU"
+  location         : "HK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/dongrui-shen/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0007-0411-5373"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
