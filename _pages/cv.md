@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Mathematics, City University of Hong Kong, 2023 till now
 * M.S. in  Computational Applied Mathematics, University of Edinburgh, 2020-2021
 * B.S. in Mathematics and Applied Mathematics, Beihang University, 2016-2020
 
@@ -29,7 +30,7 @@ Work experience
 Skills
 ======
 * Programming: Python, R, C
-* Software & Tools: Matlab, Maple, LaTex
+* Software & Tools: Matlab, Maple, LaTeX
 
 
 
@@ -43,8 +44,6 @@ Skills
 
 # Awards
 
-- *Mar 2020*
-  - Top 500 of 2020 Alibaba Global Mathematics Competition
 - *Oct 2019*
   - Scholarship for Outstanding Performance for the 2018 - 2019 academic year, BUAA
 - Oct 2018
